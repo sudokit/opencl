@@ -161,7 +161,7 @@ cython_debug/
 # kernel.cl
 out.mp4
 # */out/
-TODO.md
+# TODO.md
 .vscode/
 # cl.py
 */out/
